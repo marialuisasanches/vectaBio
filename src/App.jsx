@@ -15,7 +15,7 @@ function App() {
 
       <section className="links">
         <a
-          href="https://wa.me/55SEU NUMERO"
+          href="https://wa.me/55S22992844052"
           className="btn btn-whatsapp"
           id="whatsapp-luan"
           target="_blank"
@@ -24,7 +24,7 @@ function App() {
         </a>
 
         <a
-          href="https://wa.me/55SEU NUMERO"
+          href="https://wa.me/55988428521"
           className="btn btn-whatsapp"
           id="whatsapp-lucas"
           target="_blank"
@@ -32,7 +32,7 @@ function App() {
           Falar no WhatsApp com Lucas Cunha
         </a>
         <a
-          href="https://instagram.com/SEU@"
+          href="https://instagram.com/vectasolucoescontabeis"
           className="btn btn-insta"
           target="_blank"
         >
