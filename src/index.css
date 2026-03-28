@@ -1,0 +1,46 @@
+:root {
+  --font-title: "Bebas Neue", sans-serif;
+  --font-body: "DM Sans", sans-serif;
+
+  /* Fundos */
+  --bg-primary: #0a0f2e;
+  --bg-medium: #0d1b4b;
+  --bg-dark-teal: #0a2a3a;
+
+  /* Cores principais */
+  --cyan: #2dd4bf;
+  --blue-light: #38bdf8;
+  --teal-dark: #0d9488;
+  --blue-ocean: #0891b2;
+
+  /* Texto */
+  --text-white: #ffffff;
+  --text-muted: rgba(255, 255, 255, 0.65);
+  --text-hint: rgba(255, 255, 255, 0.45);
+  --text-faint: rgba(255, 255, 255, 0.2);
+
+  /* Bordas */
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-light: rgba(255, 255, 255, 0.1);
+  --border-cyan: rgba(45, 212, 191, 0.25);
+  --border-cyan-md: rgba(45, 212, 191, 0.3);
+
+  /* Ação / CTA */
+  --whatsapp: #25d366;
+  --purple-soft: #a78bfa;
+
+  /* Gradientes */
+  --gradient-bg: linear-gradient(160deg, #0a0f2e 0%, #0d1b4b 40%, #0a2a3a 100%);
+  --gradient-cta: linear-gradient(135deg, #0d9488, #0891b2);
+  --gradient-title: linear-gradient(135deg, #ffffff 40%, #2dd4bf);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-medium);
+}
