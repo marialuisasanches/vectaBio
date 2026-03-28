@@ -15,7 +15,7 @@ function App() {
 
       <section className="links">
         <a
-          href="https://wa.me/55S22992844052"
+          href="https://wa.me/5522992844052"
           className="btn btn-whatsapp"
           id="whatsapp-luan"
           target="_blank"
@@ -24,7 +24,7 @@ function App() {
         </a>
 
         <a
-          href="https://wa.me/55988428521"
+          href="https://wa.me/5522988428521"
           className="btn btn-whatsapp"
           id="whatsapp-lucas"
           target="_blank"
