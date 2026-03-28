@@ -3,7 +3,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="container">
+    <div className="container" id="container">
       <header>
         <img src={Logo} alt="Logo da Vecta" />
 
@@ -76,8 +76,8 @@ function App() {
       <section className="fale">
         <h3>Parceiro do seu negócio</h3>
         <p>Do início ao crescimento, a Vecta está com você.</p>
-        <a href="#whatsapp-luan" className="btn btn-fale">
-          Fale conosco
+        <a href="#container" className="btn btn-fale">
+          Fale Conosco
         </a>
       </section>
 
